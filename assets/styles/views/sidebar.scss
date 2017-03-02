@@ -1,0 +1,25 @@
+/*------sidebar------*/
+.sidebar{
+    width: 20%;
+    height: 800px;
+    padding: 20px 0;
+    display: inline-block;
+    border-right: 1px solid #957D68;
+}
+
+#search-criteria{
+    margin: 20px auto;
+    width: 100%;
+}
+
+.sidebar__name{
+    padding: 10px;
+    line-height: 20px;
+    text-transform: capitalize;
+
+    label{
+        color:#C5A268;
+        font-size: 17px;
+        letter-spacing: 0.3px;
+    }
+}
